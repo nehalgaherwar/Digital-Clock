@@ -33,3 +33,33 @@ digital-clock/
 │── README.md                                                                                      
 
 ----
+
+
+---
+
+## ▶️ How to Run
+
+1. Download or clone this repository  
+2. Open `index.html` in any web browser  
+3. The digital clock will start automatically
+
+---
+
+## 📌 Future Improvements
+
+- Add AM/PM format
+- Add dark/light mode
+- Make it mobile responsive
+- Add timezone support
+
+---
+
+## 👨‍💻 Author
+
+**Nehal Gaherwar**
+
+---
+
+## 📄 License
+
+This project is open source and free to use.
