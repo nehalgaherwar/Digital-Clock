@@ -26,3 +26,10 @@ It displays the current time and date and updates every second in real time.
 
 ## 📁 Project Structure
 
+digital-clock/                                                                                
+│── index.html                                                                  
+│── style.css                                                                                                
+│── script.js                                                                                  
+│── README.md                                                                                      
+
+----
